@@ -311,7 +311,7 @@
 // let unshift = fruits1.unshift("apple");
 // console.log(fruits1);
 
-//TODO: concat 2 yoki undan ortq arraylarn birlashtiradi
+//TODO: concat 2 yoki undan ortq arraylarni birlashtiradi
 
 // let fruits = ["apple", "banana"];
 // let vegetables = ["carrot", "broccoli"];
@@ -485,7 +485,7 @@
 
 // TODO: length
 
-// let a=[1, "salom", true]
+// let a=[1, "salom", true]; bu nechta so'z borligini aniqlaydi
 // console.log(a.length);
 
 // ? 7-dars tugadi
